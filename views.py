@@ -14,3 +14,5 @@ def add(request):
 
 
 	return render(request, "result.html",{'result':res})
+
+#pull request
